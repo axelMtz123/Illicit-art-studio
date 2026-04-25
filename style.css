@@ -234,6 +234,10 @@ ul {
     font-weight: 200;
 }
 
+.hero-video video {
+  pointer-events: none;
+}
+
 #hero h1 {
   font-size: var(--fs-91);
   letter-spacing: .25rem;
